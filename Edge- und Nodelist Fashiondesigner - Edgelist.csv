@@ -2,10 +2,10 @@ from,to,weight
 sds,G,2
 sds,P,2
 sds,DG,2
-mb ,C,2
-mb ,RF,2
-mb ,CK,2
-mb ,M,2
+mb,C,2
+mb,RF,2
+mb,CK,2
+mb,M,2
 mb,Bo,2
 dl,Bo,2
 dl,Bu,1
