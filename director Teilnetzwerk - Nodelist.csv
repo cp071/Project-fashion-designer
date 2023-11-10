@@ -1,0 +1,49 @@
+id,name,sex,sexuality,birthyear,scholar,transfer,main workplace,value,type
+abloh,Virgil Abloh,2,2,1980,2,4,usa,2,1
+audigier,Christian Audigier,2,1,1958,1,4,usa,3,1
+bailey,Christopher Bailey,2,2,1971,3,3,gb,2,1
+blazy,Matthieu Blazy,2,2,1984,3,4,fr,,1
+burton,Sarah Burton,1,1,1974,3,1,gb,1,1
+chiuri,Maria Grazia Chiuri,1,1,1964,3,3,it,1,1
+costa,Francisco Costa,2,2,1961,3,3,bra,2,1
+etro,Veronica Etro,1,1,1974,3,2,it,,1
+ford,Tom Ford,2,2,1961,3,2,usa,5,1
+galliano,John Galliano,2,2,1960,3,3,gb,1,1
+gaultier,Jean P. Gaultier,2,2,1952,3,4,fr,3,1
+gianni,Frida Gianni,1,1,1972,3,2,it,1,1
+jacobs,Marc Jacobs,2,2,1963,3,2,usa,3,1
+lagerfeld,Karl Lagerfeld,2,2,1933,3,4,de,3,1
+owens,Rick Owens,2,1,1962,3,2,usa,1,1
+prada,Miuccia Prada,1,1,1974,1,2,it,5,1
+queen,Alexander McQueen,2,2,1969,2,4,usa,1,1
+renta,Oscar de la Renta,2,1,1932,2,1,dr,1,1
+rousteing,Olivier Rousteing,2,2,1985,1,,fr,1,1
+simons,Raf Simons,2,2,1968,3,4,usa,1,1
+versace,Donatella Versace,1,1,1955,2,1,it,3,1
+williams,Pharell Williams,2,1,1973,1,2,usa,3,1
+am,AMcQueen,,,,,,,1,2
+b,Balmain,,,,,,,1,2
+c,Chanel,,,,,,,5,2
+ch,Chloe,,,,,,,5,2
+ck,CKlein,,,,,,,5,2
+d,Dior,,,,,,,5,2
+di,Diesel,,,,,,,3,2
+do,Donda by Kanye West,,,,,,,1,2
+eh,EHardy,,,,,,,3,2
+et,Etro,,,,,,,4,2
+f,Fendi,,,,,,,5,2
+g,Gucci,,,,,,,5,2
+gal,Galliano,,,,,,,1,2
+gi,Givenchy,,,,,,,2,2
+jp,Jean Patou,,,,,,,1,2
+js,Jil Sander,,,,,,,1,2
+le,Lee,,,,,,,4,2
+lv,Louis Vuitton,,,,,,,5,2
+ml,MLamy,,,,,,,1,2
+pr,Prada,,,,,,,5,2
+rc,RCavalli,,,,,,,3,2
+th,THilfiger,,,,,,,3,2
+v,Versace,,,,,,,5,2
+vd,Von Dutch,,,,,,,1,2
+bu,Burberry,NA,NA,NA,NA,NA,NA,5,2
+bv,Bottega Veneta,NA,NA,NA,NA,NA,NA,5,2
