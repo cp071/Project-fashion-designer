@@ -1,4 +1,4 @@
-id,name,sex,sexuality,birthyear,scholar,transfer,main workplace,value,type
+id,name,sex,sexuality,birthyear,scholar,transfer,main_workplace,value,type
 a,Armani,NA,NA,NA,NA,NA,NA,5,2
 ad,ADominguez,NA,NA,NA,NA,NA,NA,1,2
 af,AFerretti,NA,NA,NA,NA,NA,NA,2,2
