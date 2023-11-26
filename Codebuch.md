@@ -16,27 +16,19 @@ Wir haben den Datensatz unter den Modedesigner*innen in der Luxusmarkenbranche e
 Das Netzwerk ist ein *gerichtetes Akteursnetzwerk*. Es wurden vier getrennte Fragen erhoben:
 
 
-**Projektnetzwerk Modemarken collaborations**
+**Forschungsfragen**
 
-1a) Wie sind bekannte Modedesigner*innen der 90er Jahre mit Fashion Brands verbunden?
+1a) Wie sind bekannte Modebrands mit Fashion Designer*innen verbunden?
 
-1b) Gab es einen Wechsel zu einem anderen Label? Arbeiten sie exklusiv für eine renomierte Marke?
+1b) Welche Wechsel gab es während der Laufbahn der Designer*innen?
 
-1c) Welchen Rang hat der/die Designer*in ?
+1c) Welche Musen haben ihr berufliches Schaffen während ihrer Karriere beeinflusst?
 
-Für das Modemarkennetzwerk *collaborations* wurde den Rängen des Designers ein Gewicht von 1-3 vergeben,  3 steht für Founder, 2 für Creative Director, und 1 für Design assistant
-
-
-**Projektnetwerk Designerfakten**
-
-1)Gibt es ausschlaggebende Fakten über die Designer*innen?
-
-Für dieses Netzwerk recherchierten wir Attribute wie Ausbildungsgrad, Sexualität, Alter, Herkunftsland, und Musen der Designer*innen. 
-
+1d)Gibt es typische Eigenschaften von Designer*innen und Musen?
 
 
 **NA**
-Fehlende Werte werden nicht erfasst, und als NA angegeben.
+Fehlende Werte werden als 999 codiert.
 
 
 
@@ -94,7 +86,9 @@ Geburtsjahr des Knotens
 
 
 **main workplace**
-	
+
+Sitz der Brand oder Hauptarbeitsplatz des Knotens
+
 de = Deutschland,
 usa = Amerika,
 it = Italien,
