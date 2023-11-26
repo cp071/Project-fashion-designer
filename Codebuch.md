@@ -114,29 +114,22 @@ b = Belgien
 
 
 
-**scholar**
+scholar
 
-Abschlussart des Designers 
+Abschlussart des Designers
 
-1 = *talent* : Der/Die Designer*in hat bis auf seine kreative Ader keinen Abschluss.\
-2 = *internship/work experience* : Der/Die Designer*in hatte eine Art Ausbildung bei einem Mentor oder praktische Erfahrungen in der Modebranche gesammelt.\
-3 = *degree*: Der/Die Designer*in hat eine Modeschule oder vergleichbares besucht.\
+1 = talent : Der/Die Designerin hat bis auf seine kreative Ader keinen Abschluss.2 = internship/work experience* : Der/Die Designerin hatte eine Art Ausbildung bei einem Mentor oder praktische Erfahrungen in der Modebranche gesammelt.3 = degree: Der/Die Designerin hat eine Modeschule oder vergleichbares besucht.
 
+sexuality
 
-**sexuality**  
-
-1 = heterosexual: Der/Die Designer*in ist heterosexuell\
-2 = homosexual: Der/Die Designer*in ist homosexuell\ 
-3 = bisexual : Der/Die Designer*in ist bisexuell\
-
+1 = heterosexual: Der/Die Designerin ist heterosexuell2 = homosexual: Der/Die Designerin ist homosexuell  3 = bisexual : Der/Die Designer*in ist bisexuell
 
 **transfer**
 
-1 = Der/Die Designer*in hat direkt seine eigene Marke gegründet\
-2 = Der/Die Designer*in hat die Marke ein mal gewechselt\
-3 = Der/Die Designer*in hat die Marke zwei mal gewechselt\
+1 = Der/Die Designerin hat direkt seine eigene Marke gegründet*\
+2 =* Der/Die Designerin hat die Marke ein mal gewechselt\
+3 = Der/Die Designer\*in hat die Marke zwei mal gewechselt\
 4 = Die Marke wurde drei oder mehrmals gewechselt
-
 
 **value**
 
