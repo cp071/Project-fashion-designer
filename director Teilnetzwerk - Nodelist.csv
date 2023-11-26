@@ -2,7 +2,7 @@ id,name,sex,sexuality,birthyear,scholar,transfer,main_workplace,value,type
 abloh,Virgil Abloh,2,2,1980,2,4,usa,2,1
 audigier,Christian Audigier,2,1,1958,1,4,usa,3,1
 bailey,Christopher Bailey,2,2,1971,3,3,gb,2,1
-blazy,Matthieu Blazy,2,2,1984,3,4,fr,1
+blazy,Matthieu Blazy,2,2,1984,3,4,fr,999,1
 burton,Sarah Burton,1,1,1974,3,1,gb,1,1
 chiuri,Maria Grazia Chiuri,1,1,1964,3,3,it,1,1
 costa,Francisco Costa,2,2,1961,3,3,bra,2,1
