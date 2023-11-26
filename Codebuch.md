@@ -52,8 +52,8 @@ erhaltender Knoten, in diesem Fall: Marke , für die ein/e Designer*in arbeitet.
 
 Designer*innen Rang innerhalb einer Brand
 
-1 = Jeglicher unterer Rang oder Design Assistant Design Assistant
-2 = Creative Director
+1 = Jeglicher unterer Rang oder Design Assistant Design Assistant\
+2 = Creative Director\
 3 = Founder
 
 **year**
