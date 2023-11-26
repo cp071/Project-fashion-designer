@@ -16,7 +16,7 @@ Wir haben den Datensatz unter den Modedesigner*innen in der Luxusmarkenbranche e
 Das Netzwerk ist ein *gerichtetes Akteursnetzwerk*. Es wurden vier getrennte Fragen erhoben:
 
 
-**Forschungsfragen**
+### Forschungsfragen
 
 1a) Wie sind bekannte Modebrands mit Fashion Designer*innen verbunden?
 
@@ -26,11 +26,11 @@ Das Netzwerk ist ein *gerichtetes Akteursnetzwerk*. Es wurden vier getrennte Fra
 
 1d)Gibt es typische Eigenschaften von Designer*innen und Musen?
 
-**Hinweis**
+### Hinweis
 
 - NA: Fehlende Werte werden als 999 codiert.
 
-**Netzwerke**
+### Netzwerke
 
 - ein Gesamtnetzwerk (d)
 - drei **Teilnetzwerke** nach den Positionen (assistant, director und founder)
