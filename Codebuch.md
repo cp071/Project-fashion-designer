@@ -26,10 +26,15 @@ Das Netzwerk ist ein *gerichtetes Akteursnetzwerk*. Es wurden vier getrennte Fra
 
 1d)Gibt es typische Eigenschaften von Designer*innen und Musen?
 
-**Hinweise**
+**Hinweis**
 
 - NA: Fehlende Werte werden als 999 codiert.
-- Es wurde ein _ _Gesamtnetzwerk_ _ und drei **Teilnetzwerke** nach den Positionen (**assistant**, **director** und **founder**) und ein Teilnetzwerk (**muse**) erstellt, welches die Verbindungen zwischen Designer*innnen und Musen visualisiert <u>unterstrichener</u>
+
+**Netzwerke**
+
+- ein Gesamtnetzwerk (d)
+- drei **Teilnetzwerke** nach den Positionen (assistant, director und founder)
+- ein Teilnetzwerk (muse) erstellt, welches die Verbindungen zwischen Designer*innnen und Musen visualisiert 
 
 # EDGE-Attribute
 
