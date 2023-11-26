@@ -29,7 +29,7 @@ Das Netzwerk ist ein *gerichtetes Akteursnetzwerk*. Es wurden vier getrennte Fra
 **Hinweise**
 
 - NA: Fehlende Werte werden als 999 codiert.
-- Es wurde ein _ _Gesamtnetzwerk_ _ und drei **Teilnetzwerke** nach den Positionen (**assistant**, **director** und **founder**) und ein Teilnetzwerk (**muse**) erstellt, welches die Verbindungen zwischen Designer*innnen und Musen visualisiert
+- Es wurde ein _ _Gesamtnetzwerk_ _ und drei **Teilnetzwerke** nach den Positionen (**assistant**, **director** und **founder**) und ein Teilnetzwerk (**muse**) erstellt, welches die Verbindungen zwischen Designer*innnen und Musen visualisiert <u>unterstrichener</u>
 
 # EDGE-Attribute
 
