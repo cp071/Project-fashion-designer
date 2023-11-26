@@ -120,7 +120,7 @@ Abschlussart des Designers
 
 1 = *talent* : Der/Die Designer*in hat bis auf seine kreative Ader keinen Abschluss.\
 2 = *internship/work experience* : Der/Die Designer*in hatte eine Art Ausbildung bei einem Mentor oder praktische Erfahrungen in der Modebranche gesammelt.\
-3 = *degree* Der/Die Designer*in hat eine Modeschule oder vergleichbares besucht.\
+3 = *degree*: Der/Die Designer*in hat eine Modeschule oder vergleichbares besucht.\
 
 
 **sexuality**  
@@ -131,10 +131,10 @@ Abschlussart des Designers
 
 
 **transfer**
-1 = Der/Die Deswigner*in hat direkt seine eigene Marke gegründet\
+1 = Der/Die Designer*in hat direkt seine eigene Marke gegründet\
 2 = Der/Die Designer*in hat die Marke ein mal gewechselt\
 3 = Der/Die Designer*in hat die Marke zwei mal gewechselt\
-4 = Die Marke wurde drei oder mehrmals gewechselt\
+4 = Die Marke wurde drei oder mehrmals gewechselt
 
 
 **value**
