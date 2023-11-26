@@ -131,6 +131,7 @@ Abschlussart des Designers
 
 
 **transfer**
+
 1 = Der/Die Designer*in hat direkt seine eigene Marke gegründet\
 2 = Der/Die Designer*in hat die Marke ein mal gewechselt\
 3 = Der/Die Designer*in hat die Marke zwei mal gewechselt\
