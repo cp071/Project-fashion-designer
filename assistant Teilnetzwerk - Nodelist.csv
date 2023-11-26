@@ -3,7 +3,7 @@ abloh,Virgil Abloh,2,2,1980,2,4,usa,2,1
 armani,Giorgio Armani,2,3,1934,2,4,it,5,1
 audigier,Christian Audigier,2,1,1958,1,4,usa,3,1
 bailey,Christopher Bailey,2,2,1971,3,3,gb,2,1
-blazy,Matthieu Blazy,2,2,1984,3,4,fr,NA,1
+blazy,Matthieu Blazy,2,2,1984,3,4,fr,999,1
 burch,Tory Burch,1,1,1966,3,3,usa,5,1
 chiuri,Maria Grazia Chiuri,1,1,1964,3,3,it,1,1
 costa,Francisco Costa,2,2,1961,3,3,bra,2,1
@@ -17,9 +17,9 @@ lagerfeld,Karl Lagerfeld,2,2,1933,3,4,de,3,1
 lauren ,Ralph Lauren,2,2,1939,1,3,usa,5,1
 rousteing,Olivier Rousteing,2,2,1985,1,,fr,1,1
 simons,Raf Simons,2,2,1968,3,4,usa,1,1
-b,Balmain,NA,NA,NA,NA,NA,NA,1,2
-bb,Brooks Brothers,NA,NA,NA,NA,NA,NA,1,2
-ce,Celine,NA,NA,NA,NA,NA,NA,4,2
+b,Balmain,999,999,999,999,999,999,1,2
+bb,Brooks Brothers,999,999,999,999,999,999,1,2
+ce,Celine,999,999,999,999,999,999,4,2
 ck,CKlein,,,,,,,5,2
 dkny,Donna Karan,,,,,,,4,2
 f,Fendi,,,,,,,5,2
