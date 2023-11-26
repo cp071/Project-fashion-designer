@@ -110,9 +110,9 @@ b = Belgien
 
 **type**
 
-1 = designer
+1 = muse
 2 = brand
-3 = muse
+3 = designer
 
 
 
