@@ -116,7 +116,9 @@ b = Belgien
 
 Abschlussart des Designers
 
-1 = talent : Der/Die Designerin hat bis auf seine kreative Ader keinen Abschluss.2 = internship/work experience* : Der/Die Designerin hatte eine Art Ausbildung bei einem Mentor oder praktische Erfahrungen in der Modebranche gesammelt.3 = degree: Der/Die Designerin hat eine Modeschule oder vergleichbares besucht.
+1 = talent : Der/Die Designerin hat bis auf seine kreative Ader keinen Abschluss\
+2 = internship/work experience* : Der/Die Designerin hatte eine Art Ausbildung bei einem Mentor oder praktische Erfahrungen in der Modebranche gesammelt\
+3 = degree: Der/Die Designerin hat eine Modeschule oder vergleichbares besucht.
 
 **sexuality**
 
